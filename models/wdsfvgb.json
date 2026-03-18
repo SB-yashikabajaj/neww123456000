@@ -1,0 +1,15 @@
+{
+  "title": "wdsfvgb",
+  "x-stoplight": {
+    "id": "zzrk05pztryzh"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "gr92nen4jqtch"
+      }
+    }
+  }
+}
